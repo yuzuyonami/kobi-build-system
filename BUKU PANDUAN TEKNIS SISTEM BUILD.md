@@ -72,17 +72,6 @@ Ini adalah hasil dari kolaborasi antara manusia dan AI - sebuah contoh bagaimana
 
 ---
 
-### Versi dan Status
-
-|Properti|Nilai|
-|---|---|
-|**Versi Sistem**|v2.4.0|
-|**Tanggal Rilis**|26 Juli 2026|
-|**Status**|Stabil di Linux, Windows dalam tahap uji|
-|**Lisensi**|GPL-3.0-or-later|
-
----
-
 ## CARA MEMBACA DOKUMEN INI
 
 Dokumen ini adalah **referensi teknis lengkap** untuk sistem build KOBI GDExtension. Ada beberapa cara untuk membacanya:
@@ -102,17 +91,18 @@ _KOBI Studio, 2026_
 
 ---
 
-### [BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM%7CBAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM.md)
+### [[BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM#BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM|BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM]]
 
-1. [Mengapa Dokumentasi Ini Dibutuhkan?](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#1.%20Pendahuluan%20Mengapa%20Dokumentasi%20Ini%20Dibutuhkan?%7CMengapa%20Dokumentasi%20Ini%20Dibutuhkan?.md)
-2. [Latar Belakang: mengapa butuh Bootstrapper Satu File?](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#2.%20Latar%20Belakang%20Mengapa%20Butuh%20Bootstrapper%20Satu%20File?%7CLatar%20Belakang:%20mengapa%20butuh%20Bootstrapper%20Satu%20File?.md)
-3. [Filosofi Desain: Self-Contained, Regeneratif, dan Terminal-First.](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#3.%20Filosofi%20Desain%20Self-Contained,%20Regeneratif,%20dan%20Terminal-First%7CFilosofi%20Desain:%20Self-Contained,%20Regeneratif,%20dan%20Terminal-First..md)
-4. [Siapa Target Pengguna Sistem Ini?.](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#4.%20Siapa%20Target%20Pengguna%20Sistem%20Ini?%7CSiapa%20Target%20Pengguna%20Sistem%20Ini?..md)
-5. [Prasyarat Sistem (Dependensi yang Harus Ada: Python3, SCons, Git, Compiler).](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#5.%20Prasyarat%20Sistem%20(Dependensi%20yang%20Harus%20Ada)%7CPrasyarat%20Sistem%20(Dependensi%20yang%20Harus%20Ada:%20Python3,%20SCons,%20Git,%20Compiler)..md)
-6. [Ikhtisar Alur Eksekusi.](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#6.%20Ikhtisar%20Alur%20Eksekusi%7CIkhtisar%20Alur%20Eksekusi..md)
-7. [Tabel Rangkuman](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM.md#7.%20Tabel%20Rangkuman)
-8. [Keterkaitan dengan Bab Lain](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM.md#8.%20Keterkaitan%20dengan%20Bab%20Lain)
-9. [Kesimpulan](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM.md#9.%20Kesimpulan)
+1. [[BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM#1. Pendahuluan Mengapa Dokumentasi Ini Dibutuhkan?|Mengapa Dokumentasi Ini Dibutuhkan?]]
+2. [[BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM#2. Latar Belakang Mengapa Butuh Bootstrapper Satu File?|Latar Belakang: mengapa butuh Bootstrapper Satu File?]]
+3. [[BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM#3. Filosofi Desain Self-Contained, Regeneratif, dan Terminal-First|Filosofi Desain: Self-Contained, Regeneratif, dan Terminal-First.]]
+4. [[BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM#4. Siapa Target Pengguna Sistem Ini?|Siapa Target Pengguna Sistem Ini?.]]
+5. [[BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM#5. Prasyarat Sistem (Dependensi yang Harus Ada)|Prasyarat Sistem (Dependensi yang Harus Ada: Python3, SCons, Git, Compiler).]]
+6. [[BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM#6. Ikhtisar Alur Eksekusi|Ikhtisar Alur Eksekusi.]]
+7. [[BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM#7. Tabel Rangkuman|Tabel Rangkuman.]]
+8. [[BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM#8. Keterkaitan dengan Bab Lain|Keterkaitan dengan Bab Lain.]]
+9. [[BAB 1 - PENDAHULUAN DAN FILOSOFI SISTEM#9. Kesimpulan|Kesimpulan]][9. Kesimpulan](docs/BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM.md#9.%20Kesimpulan)
+
 ---
 
 ### [[BAB 2 - STRUKTUR AWAL BASH (SHEBANG DAN INISIALISASI)#BAB 2 - STRUKTUR AWAL BASH (SHEBANG DAN INISIALISASI)|BAB 2 - STRUKTUR AWAL BASH (SHEBANG DAN INISIALISASI)]]
