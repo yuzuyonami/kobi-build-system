@@ -110,10 +110,9 @@ _KOBI Studio, 2026_
 4. [Siapa Target Pengguna Sistem Ini?.](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#4.%20Siapa%20Target%20Pengguna%20Sistem%20Ini?%7CSiapa%20Target%20Pengguna%20Sistem%20Ini?..md)
 5. [Prasyarat Sistem (Dependensi yang Harus Ada: Python3, SCons, Git, Compiler).](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#5.%20Prasyarat%20Sistem%20(Dependensi%20yang%20Harus%20Ada)%7CPrasyarat%20Sistem%20(Dependensi%20yang%20Harus%20Ada:%20Python3,%20SCons,%20Git,%20Compiler)..md)
 6. [Ikhtisar Alur Eksekusi.](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#6.%20Ikhtisar%20Alur%20Eksekusi%7CIkhtisar%20Alur%20Eksekusi..md)
-7. [Tabel Rangkuman.](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#7.%20Tabel%20Rangkuman%7CTabel%20Rangkuman..md)
-8. [Keterkaitan dengan Bab Lain.](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#8.%20Keterkaitan%20dengan%20Bab%20Lain%7CKeterkaitan%20dengan%20Bab%20Lain..md)
-9. [Kesimpulan](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM#9.%20Kesimpulan%7CKesimpulan.md)
-
+7. [Tabel Rangkuman](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM.md#7.%20Tabel%20Rangkuman)
+8. [Keterkaitan dengan Bab Lain](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM.md#8.%20Keterkaitan%20dengan%20Bab%20Lain)
+9. [Kesimpulan](BAB%201%20-%20PENDAHULUAN%20DAN%20FILOSOFI%20SISTEM.md#9.%20Kesimpulan)
 ---
 
 ### [[BAB 2 - STRUKTUR AWAL BASH (SHEBANG DAN INISIALISASI)#BAB 2 - STRUKTUR AWAL BASH (SHEBANG DAN INISIALISASI)|BAB 2 - STRUKTUR AWAL BASH (SHEBANG DAN INISIALISASI)]]
